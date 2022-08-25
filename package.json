@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kairi4/typescript-for-javascript-kairi/issues"
   },
-  "homepage": "https://github.com/kairi4/typescript-for-javascript-kairi#readme"
+  "homepage": "https://github.com/kairi4/typescript-for-javascript-kairi#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
