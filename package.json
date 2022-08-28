@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/kairi4/typescript-for-javascript-kairi#readme",
   "devDependencies": {
+    "ts-node": "^10.9.1",
     "typescript": "^3.7.5"
+  },
+  "dependencies": {
+    "@types/node": "^18.7.13"
   }
 }
